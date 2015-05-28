@@ -1,5 +1,7 @@
 # mapreducepy
-=============
+
+Introduction
+------------
 A light-weight mapreduce framework for Python. Easy to run a mapreduce job on multiple worker machines simultaneously. To create and run your first mapreduce job, just follow the 3 steps:
 
 * edit a python file with a class "mapreducejob" in it, "./examples/example_basic.py" is an example.
